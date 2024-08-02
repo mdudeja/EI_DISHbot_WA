@@ -1,0 +1,9 @@
+
+# Ignore dynaconf secret files
+.secrets.*
+settings.toml
+
+venv
+.idea
+
+**/__pycache__/
